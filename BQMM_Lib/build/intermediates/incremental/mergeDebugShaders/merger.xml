@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/kevin/Project/Android/Open/MyApplication/BQMM_Lib/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/kevin/Project/Android/Open/MyApplication/BQMM_Lib/build-types/debug/shaders"/></dataSet></merger>
